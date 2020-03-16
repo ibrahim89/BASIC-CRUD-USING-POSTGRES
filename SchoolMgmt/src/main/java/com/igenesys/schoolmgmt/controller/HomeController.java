@@ -64,5 +64,8 @@ public class HomeController {
 	logger.error("deleteEmployeee called");
 	return empdao.deleteEmployee(employee);
 	}
+	public String getTestGitHubMethod() {
+		return "Github is working file!!!!!!!!!!!!!";
+	}
 	
 }
