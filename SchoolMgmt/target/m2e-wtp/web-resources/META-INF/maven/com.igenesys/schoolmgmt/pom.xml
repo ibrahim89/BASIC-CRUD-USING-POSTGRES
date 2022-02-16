@@ -64,7 +64,7 @@
      <dependency>
     <groupId>org.postgresql</groupId>
     <artifactId>postgresql</artifactId>
-    <version>42.1.1</version>
+    <version>42.3.3</version>
     </dependency>
 		<!-- jackson databind -->
 		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
